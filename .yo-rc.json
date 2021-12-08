@@ -1,0 +1,14 @@
+{
+  "generator-saphanaacademy-saas": {
+    "projectName": "myappsaas2",
+    "newDir": true,
+    "displayName": "My Saas App2",
+    "description": "My Saas Biz App2",
+    "category": "DPE2",
+    "SaaSAPI": false,
+    "HANA": false,
+    "customDomain": "",
+    "routes": false,
+    "destination": false
+  }
+}
